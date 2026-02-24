@@ -1,0 +1,16 @@
+https://github.com/touhidcse/react-world-on-the-go.git
+echo "# react-world-on-the-go" >> README.md
+
+For the first time:
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/touhidcse/react-world-on-the-go.git
+git push -u origin main
+
+After first time:
+git add .
+git commit -m "meaningful comment"
+git push
